@@ -5,7 +5,8 @@
   "main": "app.js",
   "scripts": {
     "test": "npm start",
-    "dev": "npx nodemon app.js"
+    "dev": "npx nodemon app.js",
+    "start": "node app.js"
   },
   "author": "Joel Milani",
   "license": "MIT",
